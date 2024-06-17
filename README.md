@@ -1,16 +1,8 @@
-# movieSearch
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 영화 검색기</br>
+omdbAPI를 사용한 영화 검색 앱</br>
+</br>
+<주요 기능></br>
+-앱 실행시 'star' 기본 키워드로 검색</br>
+-검색창을 사용해 다른 키워드로 검색 가능</br>
+-검색된 영화 상세보기(포스터 이미지 클릭시 전체화면+줌)</br>
+-웹뷰를 사용한 개인 노션 포트폴리오 탭</br>
